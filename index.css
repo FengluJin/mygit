@@ -4,7 +4,9 @@ div {
     height: 100px;
 }
 p {
+    width: 100px;
     background: lime;
+    height: 100px;
     color: blue;
     cursor: pointer;
 }
